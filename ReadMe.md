@@ -1,5 +1,11 @@
 # 💫 About Me:
-Olá, sou Weliton, graduado em Análise e Desenvolvimento de Sistemas. Fiz uma transição de carreira para a área de desenvolvimento de sistemas.<br>Sou formado como técnico em Eletrônica e Mecatrônica (CFT ativo) e possuo mais de 10 anos de experiência atuando em ambientes de alta criticidade, incluindo contratos com a Petrobras. Sou organizado, tenho excelente relacionamento interpessoal, alta capacidade de análise crítica e estou sempre disposto a aprender e ensinar.<br>Atualmente, sou Analista de Desenvolvimento de Sistemas e pratico o aprendizado contínuo, com foco em Python. Meu objetivo é, no futuro próximo, me tornar desenvolvedor Fullstack.
+📌 Profissional de Tecnologia da Informação com mais de 10 anos de experiência em suporte técnico, automação de processos e desenvolvimento de sistemas. Atuou em projetos de grande porte para empresas como Petrobras, focado em eficiência, inovação e transformação digital. Especialista em Power BI, Power Apps, SharePoint, Python e metodologias ágeis (Kanban, Lean, Scrum), com forte habilidade em análise de dados, gestão documental e implementação de soluções inteligentes. Atualmente cursando Bacharelado em Engenharia de Software (Unopar) e pós-graduado em Big Data (Faculdade Dominus), possui perfil analítico, proativo e orientado para resultados.
+
+Disponível para novos desafios na área de TI, com alta capacidade de adaptação.
+
+Contato:
+(22) 99912-3241 | (22) 99716-4708
+E-mail: welitonrangel@gmail.com
 
 
 ## 🌐 Socials:
