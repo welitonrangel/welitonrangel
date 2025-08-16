@@ -3,10 +3,6 @@
 
 Disponível para novos desafios na área de TI, com alta capacidade de adaptação.
 
-Contato:
-(22) 99912-3241 | (22) 99716-4708
-E-mail: welitonrangel@gmail.com
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/welitonrangel) 
