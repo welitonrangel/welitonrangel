@@ -1,7 +1,7 @@
 # 💫 About Me:
 📌 Profissional com mais de 10 anos de experiência em Tecnologia da Informação, com sólida atuação em suporte técnico, desenvolvimento de soluções e automação de processos em empresas de grande porte, como Petrobras. Possui formação técnica em Mecatrônica e Eletrônica, graduação em Análise e Desenvolvimento de Sistemas e pós-graduação em Big Data, atualmente cursando Engenharia de Software/Computação.
 
-Especialista em ferramentas Microsoft (Power BI, Power Automate, Power Apps), com domínio em programação (Python, VBA, JavaScript, PHP), BI, banco de dados e automação de processos com foco em eficiência e melhoria contínua. Experiência com ambientes SAP, infraestrutura de TI, metodologias ágeis (Scrum, Kanban, Lean) e tecnologias em nuvem (Azure, AWS).
+Especialista em ferramentas Microsoft (Power BI, Power Automate, Power Apps), com domínio em programação (Python, VBA, JavaScript), BI, banco de dados e automação de processos com foco em eficiência e melhoria contínua. Experiência com ambientes SAP, infraestrutura de TI, metodologias ágeis (Scrum, Kanban, Lean) e tecnologias em nuvem (Azure, AWS).
 
 Reconhecido pela habilidade em integrar áreas técnicas com objetivos de negócio, entrega de resultados consistentes e forte capacidade analítica. Busca constantemente atualização profissional por meio de certificações e treinamentos práticos, com foco em inovação e transformação digital.
 
