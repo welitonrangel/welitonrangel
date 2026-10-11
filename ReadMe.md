@@ -1,54 +1,141 @@
 # Weliton Rangel
 
-**Software Engineer**
+### Software Engineer
 
-Construo sistemas que sustentam operações reais.
+**Construo sistemas que sustentam operações reais.**
 
-**Systems · Data · Automation · SaaS**
+`Systems` · `Data` · `Automation` · `SaaS`
 
 ---
 
 ## Sobre
 
-Atuo no desenvolvimento e evolução de sistemas usados em operações reais, combinando engenharia de software, automação, dados e conhecimento de negócio.
+Sou engenheiro de software com atuação no desenvolvimento e evolução de sistemas utilizados em operações reais.
 
-Minha experiência passa por modernização de sistemas legados, aplicações web, integrações, observabilidade, automações corporativas e desenvolvimento de produtos SaaS.
+Trabalho com **arquitetura de software, modernização de sistemas legados, automação, dados e desenvolvimento de produtos SaaS**, conectando decisões técnicas às regras e necessidades do negócio.
 
-Tenho formação em Engenharia de Computação e Análise e Desenvolvimento de Sistemas, com especializações em Arquitetura de Software e Big Data / Ciência de Dados.
+Minha experiência inclui aplicações web, APIs e integrações, automações corporativas, observabilidade, migração de sistemas legados e desenvolvimento de soluções com arquitetura multi-tenant e operação Edge/Cloud.
 
 ---
 
 ## Áreas de atuação
 
-- **Systems** — aplicações web, arquitetura, integrações e modernização de legado
-- **Data** — SQL, Power BI, pipelines, indicadores e análise operacional
-- **Automation** — Python, automações corporativas e integração de processos
-- **SaaS** — arquitetura multi-tenant, operação Edge/Cloud e produtos para negócios reais
+### Software Engineering
+
+Arquitetura de aplicações, APIs, integrações, modelagem de domínio, testes automatizados e evolução de sistemas.
+
+### Legacy Modernization
+
+Migração e modernização de aplicações legadas, bancos de dados e processos operacionais, com foco em preservação de regras de negócio, integridade dos dados e continuidade operacional.
+
+### Automation & Data
+
+Automação de processos, integração de sistemas, processamento de dados, indicadores e observabilidade utilizando principalmente Python, SQL e Power BI.
+
+### SaaS Architecture
+
+Desenvolvimento de produtos modulares e multi-tenant, com isolamento de dados, regras de negócio, operação Edge/Cloud e suporte a cenários que exigem funcionamento offline.
 
 ---
 
-## Projetos em destaque
+## Projetos selecionados
 
 ### Orena One
 
-Plataforma SaaS modular para pequenas e médias operações, com PDV, estoque, serviços, financeiro, operação offline e arquitetura multi-tenant.
+**SaaS modular para operações reais de pequenos e médios negócios.**
 
-### Modernização de sistemas legados
+Projeto autoral em desenvolvimento, concebido para atender diferentes verticais a partir de uma arquitetura compartilhada.
 
-Migração e evolução de aplicações baseadas em Microsoft Access e processos manuais para arquiteturas web e bancos relacionais modernos.
+Entre os desafios de engenharia trabalhados no projeto estão:
 
-### Monitoramento operacional
+- arquitetura modular e multi-tenant;
+- PDV e controle de estoque;
+- serviços e ordens de serviço;
+- gestão financeira;
+- operação offline;
+- sincronização Edge/Cloud;
+- migração de sistemas legados;
+- integridade e isolamento de dados;
+- testes automatizados;
+- governança de releases.
 
-Soluções de monitoramento de conectividade e infraestrutura utilizando Python, APIs, Zabbix, Grafana e regras operacionais específicas.
+O código-fonte principal permanece privado. Arquitetura, demonstrações e estudos de caso são apresentados separadamente sem exposição de dados sensíveis ou regras proprietárias.
+
+---
+
+### Modernização de Sistemas Legados
+
+Experiência na evolução de aplicações e processos baseados em tecnologias legadas para soluções modernas.
+
+Um dos cenários trabalhados envolve a transição:
+
+**Microsoft Access → SQLite / bancos relacionais → aplicação web**
+
+com atenção a:
+
+- análise e preservação das regras existentes;
+- saneamento e reconciliação de dados;
+- rastreabilidade da migração;
+- validação antes do cutover;
+- continuidade da operação.
+
+---
+
+### Monitoramento Operacional
+
+Desenvolvimento de soluções para monitoramento de conectividade e infraestrutura utilizando:
+
+`Python` · `REST APIs` · `Zabbix` · `Grafana`
+
+As soluções combinam coleta de métricas, processamento de indicadores e classificação de estados operacionais para transformar telemetria técnica em informação útil para a operação.
 
 ---
 
 ## Tecnologias
 
-`Python` · `Flask` · `JavaScript` · `PHP` · `SQL` · `React` · `Power BI` · `Azure` · `Docker` · `Zabbix` · `Grafana`
+**Backend**
+
+`Python` · `Flask` · `Node.js` · `PHP`
+
+**Frontend**
+
+`JavaScript` · `React` · `HTML` · `CSS`
+
+**Data & Analytics**
+
+`SQL` · `Power BI` · `Power Query`
+
+**Cloud & Infrastructure**
+
+`Azure` · `Docker`
+
+**Observability**
+
+`Zabbix` · `Grafana`
+
+**Engineering**
+
+`Git` · `REST APIs` · `Automated Testing` · `Multi-tenant Architecture`
+
+---
+
+## Formação
+
+**Engenharia de Computação**
+
+**Análise e Desenvolvimento de Sistemas**
+
+Especializações em:
+
+- Arquitetura de Software
+- Big Data / Ciência de Dados
 
 ---
 
 ## Contato
 
-[LinkedIn](https://linkedin.com/in/welitonrangel) · [GitHub](https://github.com/welitonrangel)
+**LinkedIn** — linkedin.com/in/welitonrangel
+
+**GitHub** — github.com/welitonrangel
+
+<!-- Portfolio: adicionar welitonrangel.dev após a publicação definitiva do domínio. -->
